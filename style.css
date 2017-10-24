@@ -1,0 +1,67 @@
+	body{
+		width: 100%;
+		height: auto;
+		background-image: url('img/feed_bg.jpg');
+		background-size: cover;
+	}
+	.loginDiv{
+		width: 100%;
+		background-color: #e4e4e4;
+		opacity: .7;
+		padding: 4%;
+		display: table-cell;
+
+	}
+	.btn-lg.round {
+		border-radius: 24px;
+		padding: 6px 12px;
+		margin-right: 12px;
+	}
+	.input .placeholder:hover {
+		background-color: black;
+	}
+
+
+	/*replace the content value with the
+	corresponding value from the list below*/
+	 
+	.valid12 {
+		    content: "\f000";
+		    font-family: FontAwesome;
+		    font-style: normal;
+		    font-weight: normal;
+		    text-decoration: inherit;
+		/*--adjust as necessary--*/
+		    color: #000;
+		    font-size: 18px;
+		    padding-right: 0.5em;
+		    position: absolute;
+		    top: 10px;
+		    left: 0;
+	}
+
+	.form-control-feedback{
+		right: 13px;
+	}
+
+	.glyphicon-remove:before{
+		color: red;
+	}
+
+	.glyphicon-ok:before{
+		color: green;
+	}
+	.btn-lg.round {
+		border-radius: 24px;
+		padding: 6px 12px;
+		margin-right: 12px;
+		background-color: red;
+		color: white;
+	}
+	.loginDiv{
+		width: 100%;
+		background-color: #e4e4e4;
+		opacity: .7;
+		padding: 4%;
+		display: table-cell;
+	}
